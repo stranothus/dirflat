@@ -1,0 +1,24 @@
+{
+  "name": "dirflat",
+  "version": "1.0.0",
+  "description": "Get all files from a directory including files within subdirectories. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "directory",
+    "fs",
+    "flat",
+    "file",
+    "files",
+    "sub-directories"
+  ],
+  "author": "Quinn Gibson",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stranothus/dirflat.git"
+  }
+}
