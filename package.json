@@ -1,6 +1,6 @@
 {
   "name": "dirflat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get all files from a directory including files within subdirectories. ",
   "main": "index.js",
   "scripts": {
