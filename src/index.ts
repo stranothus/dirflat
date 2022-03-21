@@ -1,5 +1,5 @@
  // import packages
-import * as fs from "fs";
+ import * as fs from "fs";
 
  // read all files, including those in sub directories, of a directory
 async function dirFlat(directory: string): Promise<string[]> {
