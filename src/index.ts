@@ -18,4 +18,4 @@ async function dirFlat(directory: string): Promise<string[]> {
     return files;
 }
 
-module.exports = dirFlat;
+export default dirFlat;
